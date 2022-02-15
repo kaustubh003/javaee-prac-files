@@ -1,2 +1,2 @@
 # javaee-prac-files
-Some practice files made by me for practing J2EE
+Some practice files made by me for practising J2EE
